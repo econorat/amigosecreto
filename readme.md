@@ -1,8 +1,9 @@
-Amigo Secreto 🎁
+<h2>Amigo Secreto 🎁</h2>
+<br><br>
 Um projeto simples e divertido para sortear amigos secretos online. Adicione os nomes dos participantes, clique em "Sortear" e descubra quem tirou quem!
-
-🚀 Como usar
-Adicionar Nomes:
+<br>
+<h3>🚀 Como usar</h3>
+<b>Adicionar Nomes:</b>
 
 Digite o nome de um amigo no campo de texto.
 
