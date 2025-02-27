@@ -11,7 +11,7 @@ function adicionarAmigo() {
         const li = document.createElement('li');
         li.textContent = nome;
         listaAmigosElement.appendChild(li);
-        input.value = ''; // Limpa o campo de entrada
+        input.value = '';
     } else {
         alert('Por favor, insira um nome válido ou não duplicado.');
     }
@@ -24,7 +24,7 @@ function sortearAmigo() {
     }
 
     const resultadoElement = document.getElementById('resultado');
-    resultadoElement.innerHTML = ''; // Limpa resultados anteriores
+    resultadoElement.innerHTML = '';
 
     const listaSorteada = [...listaAmigos].sort(() => Math.random() - 0.5);
 
