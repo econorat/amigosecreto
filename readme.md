@@ -9,21 +9,21 @@ Digite o nome de um amigo no campo de texto.
 
 Clique em "Adicionar" para incluir o nome na lista.
 
-Sortear Amigos:
+<b>Sortear Amigos:</b>
 
 Após adicionar todos os nomes, clique em "Sortear amigo".
 
 O resultado será exibido na tela, mostrando quem tirou quem.
 
-Reiniciar:
+<b>Reiniciar:</b>
 
 Recarregue a página para começar um novo sorteio.
 
-🛠️ Tecnologias utilizadas
-HTML: Estrutura da página.
+<h3>🛠️ Tecnologias utilizadas</h3>
+<b>HTML:</b> Estrutura da página.
 
-CSS: Estilização e design responsivo.
+<b>CSS:</b> Estilização e design responsivo.
 
-JavaScript: Lógica para adicionar nomes e realizar o sorteio.
+<b>JavaScript:</b> Lógica para adicionar nomes e realizar o sorteio.
 
-Google Fonts: Fontes personalizadas (Inter e Merriweather).
+<b>Google Fonts:</b> Fontes personalizadas (Inter e Merriweather).
